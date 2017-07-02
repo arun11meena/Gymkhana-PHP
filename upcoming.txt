@@ -1,0 +1,38 @@
+<li>
+<div class="wrap-event">
+
+<div class="calender-wrap">
+  <strong><i class="glyphicon glyphicon-calendar"></i> 18-21 Feb 2016</strong>
+  <em>Thursday-Sunday</em>
+  
+</div>
+
+<div class="event-info">
+<span>
+<a href="http://www.kashiyatra.org"><b>Kashiyatra</b></a>
+Annual Cultural Festival of IIT BHU
+</span>
+</div>
+
+</div>
+</li>
+
+
+
+
+<li>
+<div class="wrap-event">
+
+<div class="calender-wrap">
+  <strong><i class="glyphicon glyphicon-calendar"></i> 30 Dec 2015 - 1 Jan 2016</strong>
+  <span class="block"><i class="glyphicon glyphicon-time"></i> 10:00AM </span>
+</div>
+
+<div class="event-info">
+<span>
+<a href="http://www.iitbhu.ac.in/alumni/alumni_meet/brochure.pdf"><b>IT (BHU) Alumni Meet</b></a>
+</span>
+</div>
+
+</div>
+</li>
